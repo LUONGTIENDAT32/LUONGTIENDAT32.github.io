@@ -55,7 +55,11 @@
     {
       "name": "crystall1nedev's server",
       "address": "https://anisette.crystall1ne.dev"
-    }
+    },
+    {
+    "name": "LTDat",
+    "address": "https://anisette-v3-server-pev7.onrender.com"
+}
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
